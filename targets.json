@@ -1,0 +1,22 @@
+[
+  {
+    "home_url": "https://www.packtpub.com/packt/offers/free-learning?",
+    "elements": [
+      {
+        "action": "find_id",
+        "identifier": "title-bar-title"
+      }
+    ]
+  },
+  {
+    "home_url": "https://www.magicfreebiesuk.co.uk/",
+    "elements": [
+      {
+        "action": "find_all",
+        "identifier": "freebie-title-link",
+        "type": "a",
+        "property": "class"
+      }
+    ]
+  }
+]
